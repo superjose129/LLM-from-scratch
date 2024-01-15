@@ -1,6 +1,6 @@
 # Build a Large Language Model (From Scratch)
 
-(If you downloaded the code bundle from the Manning website, please consider visiting the official code repository on GitHub at [https://github.com/rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch).)
+(If you downloaded the code bundle from the Manning website, please consider visiting the official code repository on GitHub at [https://github.com/Superjosedev129/LLMs-from-scratch](https://github.com/Superjosedev129/LLMs-from-scratch).)
 
 <br>
 <br>
@@ -11,7 +11,7 @@ In [*Build a Large Language Model (from Scratch)*](http://mng.bz/orYv), you'll d
 
 The method described in this book for training and developing your own small-but-functional model for educational purposes mirrors the approach used in creating large-scale foundational models such as those behind ChatGPT.
 
-- Link to the official [source code repository](https://github.com/rasbt/LLMs-from-scratch)
+- Link to the official [source code repository](https://github.com/Superjosedev129/LLMs-from-scratch)
 - [Link to the early access version](http://mng.bz/orYv) at Manning
 - ISBN 9781633437166
 - Publication in Early 2025 (estimated)
@@ -24,7 +24,7 @@ The method described in this book for training and developing your own small-but
 
 Please note that the `Readme.md` file is a Markdown (`.md`) file. If you have downloaded this code bundle from the Manning website and are viewing it on your local computer, I recommend using a Markdown editor or previewer for proper viewing. If you haven't installed a Markdown editor yet, MarkText[https://www.marktext.cc](https://www.marktext.cc) is a good free option.
 
-Alternatively, you can view this and other files on GitHub at [https://github.com/rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch).
+Alternatively, you can view this and other files on GitHub at [https://github.com/rasbt/LLMs-from-scratch](https://github.com/Superjosedev129/LLMs-from-scratch).
 
 <br>
 <br>
